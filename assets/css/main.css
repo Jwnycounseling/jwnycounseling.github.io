@@ -2448,3 +2448,10 @@ input, select, textarea {
 	#zhongwenbutton {
 		float: right;
 	}
+
+	.button-row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 1em; /* optional spacing */
+}
